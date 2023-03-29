@@ -10,6 +10,7 @@ namespace Лаб1
             int x = 513;
             int y = 3;
             int mult = x * y;
+            Console.WriteLine("Multiplication between x and y = " + mult);
         }
     }
 }
