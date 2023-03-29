@@ -9,6 +9,7 @@ namespace Лаб1
             Console.WriteLine("Hello!");
             int x = 513;
             int y = 3;
+            int mult = x * y;
         }
     }
 }
