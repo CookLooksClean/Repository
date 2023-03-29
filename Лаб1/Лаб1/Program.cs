@@ -7,6 +7,7 @@ namespace Лаб1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
+            int x = 513;
         }
     }
 }
