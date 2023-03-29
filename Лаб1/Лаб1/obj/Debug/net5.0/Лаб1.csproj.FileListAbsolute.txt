@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\bin\Debug\net5.0\Лаб1.exe
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\bin\Debug\net5.0\Лаб1.deps.json
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\bin\Debug\net5.0\Лаб1.runtimeconfig.json
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\bin\Debug\net5.0\Лаб1.runtimeconfig.dev.json
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\bin\Debug\net5.0\Лаб1.dll
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\bin\Debug\net5.0\ref\Лаб1.dll
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\bin\Debug\net5.0\Лаб1.pdb
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\Лаб1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\Лаб1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\Лаб1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\Лаб1.AssemblyInfo.cs
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\Лаб1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\Лаб1.dll
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\ref\Лаб1.dll
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\Лаб1.pdb
+C:\Users\User\Desktop\работы\ООАиД\Лаб1.3\Repository\Лаб1\Лаб1\obj\Debug\net5.0\Лаб1.genruntimeconfig.cache
